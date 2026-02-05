@@ -16,10 +16,10 @@ A full-stack web application implementing role-based authentication and authoriz
 _Add screenshots of your website here to showcase the UI and functionality._
 
 Example placeholders:
-![Login Page](Previews\LoginPage.png)
+![Login Page](Previews/LoginPage.png)
 ![Admin Dashboard](Previews/AdminHandlePage.png)
-![User Dashboard](Previews\UserPage.png)
-![Product Management](Previews\ProductManagementPage.png)
+![User Dashboard](Previews/UserPage.png)
+![Product Management](Previews/ProductManagementPage.png)
 
 ## Tech Stack
 
